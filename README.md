@@ -5,11 +5,11 @@ high-quality ANSI C implementations, ensuring compliance with MISRA and Automoti
 configuration, static and dynamic code analysis, integration testing, and traceability management. Recognized for high performance,
 strong ownership, and effective collaboration in Agile, cross-functional teams.</h3>
 
-<h3 align="left">TL;DR: What you're seeing here is a cute visual representation of my repositories in github, each depicted with a fish.</h3>
+<h4 align="left">TL;DR: What you're seeing here is a cute visual representation of my repositories in github, each depicted with a fish.</h4>
 <p align="left">
   <img src="assets/OutputKoiPond.gif" alt="Github Koi Pond"/>
+  If you want to know more, please go to: <a href="https://github.com/NKingGrimm/Koi-Pond" target="_blank" rel="noreferrer">Koi Pond Project</a>
 </p>
-<h1 align="left">If you want to know more, please go to: <a href="https://github.com/NKingGrimm/Koi-Pond" target="_blank" rel="noreferrer">Koi Pond Project</a></h1>
 
 
 <h3 align="left">Connect with me:</h3>
