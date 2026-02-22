@@ -31,4 +31,4 @@ Project link: [Koi-Pond repo](https://github.com/NKingGrimm/Koi-Pond)
 - Email: [leonardo.oseguera@hotmail.com](mailto:leonardo.oseguera@hotmail.com)
 
 ---
-`NKingGrimm/NKingGrimm` is a special repository because this `README.md` appears on my GitHub profile.
+<!-- `NKingGrimm/NKingGrimm` is a special repository because this `README.md` appears on my GitHub profile. -->
